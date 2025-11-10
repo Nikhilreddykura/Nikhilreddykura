@@ -79,3 +79,19 @@
   <img src="https://camo.githubusercontent.com/6cbab72ff166dfdf11eb1b81930aee20d03ad00990e99fe4cc72567444abae07/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70726574746965722d2532334637423933452e7376673f7374796c653d706c6173746963266c6f676f3d7072657474696572266c6f676f436f6c6f723d626c61636b" alt="Prettier" height="28">
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhilreddykura&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhilreddykura&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilreddykura&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nikhilreddykura&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+</p>
