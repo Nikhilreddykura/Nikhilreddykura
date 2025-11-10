@@ -95,3 +95,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nikhilreddykura&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies">
 </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nikhilreddykura&repo=REPO_NAME&theme=radical&hide_border=true&show_owner=true)](https://github.com/Nikhilreddykura/REPO_NAME)
+
