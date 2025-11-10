@@ -97,12 +97,18 @@
 </p>
 
 <h2>✍️ Dev Quote</h2>
-<div align="center">
-  <img alt="Quote"
-       src="https://img.shields.io/badge/%22Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.%22-6A00FF?style=for-the-badge&labelColor=111827&logo=quote&logoColor=white">
-  <br>
-  <img alt="Author"
-       src="https://img.shields.io/badge/%E2%80%94%20Martin%20Fowler-111827?style=flat-square&labelColor=6A00FF&logoColor=white">
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">
+        <span style="font-size:22px">💡</span><br>
+        <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em><br>
+        <span>— <strong>Martin Fowler</strong></span><br>
+        <span>✨ 📚 💻</span>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
