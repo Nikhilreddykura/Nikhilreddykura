@@ -2,7 +2,10 @@
 
 ![Hi there 👋](./6tXM.gif)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NIkhilreddykura&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NIkhilreddykura&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats for NIkhilreddykura">
+</p>
+
 
 
 <!--
