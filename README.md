@@ -15,3 +15,17 @@
   🚀 Open Source Contributor.<br>
   🎓 <strong>Graduate Student (IS)</strong> at Saint Louis University.
 </p>
+
+<h2>🌐 Socials</h2>
+<p align="center">
+  <a href="https://www.instagram.com/kura.sai.nikhil.reddy/" title="Instagram">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/kura-sai-nikhil-reddy/" title="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:sainikhilreddy.kura@slu.edu" title="Email">
+    <img alt="Email" src="https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
