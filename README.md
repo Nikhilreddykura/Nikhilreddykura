@@ -2,11 +2,7 @@
 
 ![Hi there 👋](./6tXM.gif)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NIkhilreddykura&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats for NIkhilreddykura">
-</p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIkhilreddykura&layout=compact&theme=dark&hide_border=true)
-![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=NIkhilreddykura&theme=dark&hide_border=true)
+
 
 
 
