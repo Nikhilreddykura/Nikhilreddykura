@@ -1,6 +1,6 @@
 <h1>👋 About Me </h1>
 
-![Hi there 👋](./6tXM.gif)
+![Hi there 👋](./6tXM.gif)(./coding.gif)
 
 
 
