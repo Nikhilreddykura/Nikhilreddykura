@@ -96,9 +96,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Nikhilreddykura&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies">
 </p>
 
-## ✍️ Dev Quote
-
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."  
-> — Martin Fowler
+<h2>✍️ Dev Quote</h2>
+<p align="center">
+  <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</em><br>
+  — Martin Fowler
+</p>
 
 
